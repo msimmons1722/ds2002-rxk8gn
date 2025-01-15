@@ -1,0 +1,107 @@
+    1  pwd
+    2  ls
+    3  ls -al
+    4  ls-al
+    5  ls - al
+    6  las -al
+    7  ls -al
+    8  cd .
+    9  pwd
+   10  cd.
+   11  cd ..
+   12  pwd
+   13  cd ..
+   14  pwd
+   15  clear
+   16  ls . al
+   17  ls .al
+   18  ls -al
+   19  cs ~
+   20  cd ~
+   21  pwd
+   22  ls -al
+   23  clear
+   24  cd /workspaces/
+   25  cd /workspaces/ds2002-rxk8gn/
+   26  cd /
+   27  cd workspaces/ds2002-rxk8gn/
+   28  ls - al
+   29  touch file1.yxy
+   30  touch file1.txt
+   31  ls - al
+   32  ls -al
+   33  touch file2.txt
+   34  touch file3.txt
+   35  echo "a man a plan a canal panama"
+   36  echo "a man a plan a canal panama" > file1.txt
+   37  ls -al
+   38  cat file1.txt
+   39  cat file1.text > file2.text
+   40  cat file1.text > file2.txt
+   41  cat file1.txt > file2.txt
+   42  cat file2.txt > file3.txt
+   43  ls - al
+   44  ls -al
+   45  echo "this should be a second line" >> file2.txt
+   46  cat file2.txt
+   47  ls -al
+   48  clear
+   49  cat /dev/null > file3.txt
+   50  ls -al
+   51  mkdir files
+   52  ls -al
+   53  mv file1.txt files/
+   54  ls -al
+   55  mv file1.yxy files
+   56  mv file2.text files
+   57  ls -al
+   58  touch file4.txt
+   59  touch file5.txt
+   60  cp file2.txt file6.txt
+   61  cp file3.txt file7.txt
+   62  ls -al
+   63  echo file2.txt
+   64  touch myscript.py
+   65  touch script.sh
+   66  ls -al
+   67  mv file*.txt files/
+   68  ls -al
+   69  clear
+   70  rm files/file7.txt
+   71  ls -al
+   72  rm file7.txt
+   73  cd ..
+   74  ls -al
+   75  cd ~
+   76  ls -al
+   77  cd-
+   78  cd -
+   79  ls -al
+   80  cd -
+   81  ls - al
+   82  ls -al
+   83  top
+   84  q
+   85  ps
+   86  ps aux
+   87  cd files/
+   88  ls -al
+   89  cd.
+   90  cd .
+   91  ls -a;
+   92  ls -al
+   93  cd .
+   94  ls -al
+   95  cd ~
+   96  ls -al
+   97  cd ..
+   98  ls -al
+   99  cd ..
+  100  cd ~
+  101  ls -al
+  102  workspaces/ds2002-rxk8gn
+  103  history
+  104  cd/workspaces/ds2002-rxk8gn/
+  105  cd /workspaces/ds2002-rxk8gn/
+  106  ls -al
+  107  history > file5.txt
